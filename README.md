@@ -2,10 +2,6 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ce56cee12078f96efcea220a4c5d6ba5fba1de28
 # Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
